@@ -11,6 +11,7 @@ namespace ConsoleApp_dec16_demo
         void print()
         {
             Console.WriteLine("Hello");
+            Console.WriteLine("Change");
         }
     }
 }
