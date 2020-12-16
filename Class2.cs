@@ -10,4 +10,8 @@ namespace ConsoleApp_dec16_demo
 
         }
     }
+        void demo()
+        {
+            Console.WriteLine("Creating new func in remote");
+        }
 }
