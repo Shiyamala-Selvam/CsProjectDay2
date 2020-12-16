@@ -4,8 +4,10 @@ namespace ConsoleApp_dec16_demo
 {
     class Class2
     {
-    void print()
-    {
-    
+        void print()
+        {
+            Console.WriteLine("Creating new func in local");
+
+        }
     }
 }
