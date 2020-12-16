@@ -13,5 +13,9 @@ namespace ConsoleApp_dec16_demo
             Console.WriteLine("Hello");
             Console.WriteLine("Change");
         }
+        void demo()
+        {
+            Console.WriteLine("Creating new func in local");
+        }
     }
 }
