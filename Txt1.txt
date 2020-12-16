@@ -5,3 +5,6 @@ This is local
 Pull request
 Here we are creating conflict
 >>>>>>> 790d6f4c5a1bc1389891148726bc94bcf2373e41
+
+-----------------
+practice conflict 2 from local
