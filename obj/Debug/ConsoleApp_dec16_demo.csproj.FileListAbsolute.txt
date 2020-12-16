@@ -1,0 +1,7 @@
+D:\GIT\Works\Day2ConApp\ConsoleApp_dec16_demo\ConsoleApp_dec16_demo\bin\Debug\ConsoleApp_dec16_demo.exe.config
+D:\GIT\Works\Day2ConApp\ConsoleApp_dec16_demo\ConsoleApp_dec16_demo\bin\Debug\ConsoleApp_dec16_demo.exe
+D:\GIT\Works\Day2ConApp\ConsoleApp_dec16_demo\ConsoleApp_dec16_demo\bin\Debug\ConsoleApp_dec16_demo.pdb
+D:\GIT\Works\Day2ConApp\ConsoleApp_dec16_demo\ConsoleApp_dec16_demo\obj\Debug\ConsoleApp_dec16_demo.csprojAssemblyReference.cache
+D:\GIT\Works\Day2ConApp\ConsoleApp_dec16_demo\ConsoleApp_dec16_demo\obj\Debug\ConsoleApp_dec16_demo.csproj.CoreCompileInputs.cache
+D:\GIT\Works\Day2ConApp\ConsoleApp_dec16_demo\ConsoleApp_dec16_demo\obj\Debug\ConsoleApp_dec16_demo.exe
+D:\GIT\Works\Day2ConApp\ConsoleApp_dec16_demo\ConsoleApp_dec16_demo\obj\Debug\ConsoleApp_dec16_demo.pdb
