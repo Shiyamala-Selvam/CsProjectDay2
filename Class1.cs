@@ -8,5 +8,6 @@ namespace ConsoleApp_dec16_demo
 {
     class Class1
     {
+        Console.WrileLine("Hello");
     }
 }
